@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/akhil/go-fiber-postgres/models"
-	"github.com/akhil/go-fiber-postgres/storage"
+	"github.com/developer-afo/go-fiber-postgres/models"
+	"github.com/developer-afo/go-fiber-postgres/storage"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/joho/godotenv"
